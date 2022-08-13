@@ -1,0 +1,41 @@
+.toolbar {
+    background: #0a0a0a;
+    padding: 8px;
+}
+
+.title {
+    font-family: "Lucida Console", serif;
+    padding:8px;
+}
+
+.button_stack {
+    display:flex;
+    flex: 1;
+    justify-content: right;
+    padding:8px;
+}
+
+.main_div_mobile {
+    padding:18vh;
+    justify-content: center;
+    display:flex;
+    background: rgba(0, 0, 0, 0.4);
+    box-shadow: 0 8px 32px 0 rgba(27, 0, 10, 0.37);
+}
+
+.toolbar_mobile_under {
+    justify-content: center;
+    display:flex;
+    background-color: #311a46;
+}
+
+.mainHeaderSvg_mobile {
+    width:150px;
+    display:flex;
+}
+
+.title_mobile {
+    justify-content: space-evenly;
+    font-family: "Lucida Console", serif;
+    color:white;
+}

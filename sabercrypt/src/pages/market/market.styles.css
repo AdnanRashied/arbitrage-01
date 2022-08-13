@@ -1,0 +1,21 @@
+.search-field {
+    display: flex;
+    min-height: 40vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-bar {
+    width: 40vw;
+    padding: 20px;
+    background-color: #282828;
+    border-color: #000029;
+    color:white;
+    font-size: 20px;
+    border-radius: 40px;
+}
+
+.cards {
+    display: flex;
+
+}
